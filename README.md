@@ -1,1 +1,1 @@
-First project of the odin project using only html.
+Odin Projects using html and css
