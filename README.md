@@ -1,1 +1,2 @@
-Odin Projects using html and css
+# Odin Project
+Odin Projects using html and css.
